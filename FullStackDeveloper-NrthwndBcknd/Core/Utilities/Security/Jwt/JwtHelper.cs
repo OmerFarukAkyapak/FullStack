@@ -42,6 +42,7 @@ namespace Core.Utilities.Security.Jwt
                 claims:SetClaims(user,operationClaims),
                 signingCredentials: signingCredentials
                 );
+            return jwt;
         }
 
         private IEnumerable<Claim> SetClaims(User user,List<OperationClaim> operationClaims)
