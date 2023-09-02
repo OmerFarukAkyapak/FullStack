@@ -50,3 +50,12 @@ C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\WebAPI\bin
 C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\WebAPI\bin\Debug\net5.0\Core.pdb
 C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\WebAPI\bin\Debug\net5.0\DataAccess.pdb
 C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\WebAPI\bin\Debug\net5.0\Entities.pdb
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\WebAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
