@@ -1,6 +1,7 @@
 ﻿using Business.Abstract;
 using Business.Constants;
 using Business.ValidationRules.FluentValidation;
+using Core.Aspects.Autofac.Caching;
 using Core.Aspects.Autofac.Transaction;
 using Core.Aspects.Autofac.Validation;
 using Core.CrossCuttingConcerns.Validation;
@@ -15,6 +16,7 @@ using System.Text;
 
 namespace Business.Concrete
 {
+    //Bussiness kodlari burada yazilir
     public class ProductManager : IProductService
     {
         private IProductDal _productDal;
@@ -32,7 +34,6 @@ namespace Business.Concrete
         {
             //ValidationTool.Validate(new ProductValidator(),product);
 
-            //Bussiness kodlari bu alana yazilir
             _productDal.Add(product);
             return new SuccessResult(Messages.ProductAdded);
         }
@@ -53,10 +54,12 @@ namespace Business.Concrete
             return new SuccessDataResult<List<Product>>(_productDal.GetList().ToList());
         }
 
+        [CacheAspect(1)]
         public IDataResult<List<Product>> GetListByCategory(int categoryId)
         {
             return new SuccessDataResult<List<Product>>(_productDal.GetList(filter: p => p.CategoryId == categoryId).ToList());
         }
+
         [TransactionScopeAspect]
         public IResult TransactionalOperation(Product product)
         {
