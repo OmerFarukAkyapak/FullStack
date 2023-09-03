@@ -58,6 +58,10 @@
               "target": "Package",
               "version": "[7.1.0, )"
             },
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
             "FluentValidation": {
               "target": "Package",
               "version": "[8.5.0, )"
@@ -125,6 +129,10 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "dependencies": {
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
             "FluentValidation": {
               "target": "Package",
               "version": "[8.5.0, )"

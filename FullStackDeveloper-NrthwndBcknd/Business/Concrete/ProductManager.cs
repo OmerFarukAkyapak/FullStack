@@ -1,6 +1,7 @@
 ﻿using Business.Abstract;
 using Business.Constants;
 using Business.ValidationRules.FluentValidation;
+using Core.Aspects.Autofac.Validation;
 using Core.CrossCuttingConcerns.Validation;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
@@ -25,10 +26,10 @@ namespace Business.Concrete
         //Cross Cutting Concers - Validation, Cache, Log ,Performance , Auth ,Transaction
         //AOP - Aspect Oriented Programing 
 
-        //[ValidationAspect(typeof(ProductValidator))]
+        [ValidationAspect(typeof(ProductValidator),Priority=1)]
         public IResult Add(Product product)
         {
-            ValidationTool.Validate(new ProductValidator(),product);
+            //ValidationTool.Validate(new ProductValidator(),product);
 
             //Bussiness kodlari bu alana yazilir
             _productDal.Add(product);
