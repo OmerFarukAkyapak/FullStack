@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "GYO/aTPMllDhKTlGlxCub7oTxdGfQ11p9lLatM4WdkdUqyXk8qZAq8oETzjHUz6YZO+vf2k0OImDH9kbOyY+NQ==",
+  "dgSpecHash": "xZkqG/aWxUkxNUp6PjyAjgui6SWAYHS8G5VGMHG/u7UUvPhIkyXfmtNmgqq1MU1LIq/4EIC+uR9Axvf8KNO1vQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\faruk\\source\\repos\\FullStack\\FullStackDeveloper-NrthwndBcknd\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\faruk\\.nuget\\packages\\autofac\\7.1.0\\autofac.7.1.0.nupkg.sha512",
     "C:\\Users\\faruk\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\faruk\\.nuget\\packages\\fluentvalidation\\8.5.0\\fluentvalidation.8.5.0.nupkg.sha512",
     "C:\\Users\\faruk\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.0\\microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",
     "C:\\Users\\faruk\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\faruk\\.nuget\\packages\\microsoft.entityframeworkcore\\2.2.6\\microsoft.entityframeworkcore.2.2.6.nupkg.sha512",

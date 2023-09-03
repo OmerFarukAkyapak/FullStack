@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "OuAWb8vdtr9Dhpgrwal2wN8BXP3U1NfcYF7iAYLWitsaZORxvtcbH0YIIaRVOJf8HFquHCJlrDuBOC8GFFzxaA==",
+  "dgSpecHash": "YoXqMdo+X/5ly/zV6gcuDKo8vjzymb2j9ZnE8+0ymOZNheDo2wmEY3Zy72C72ZhLb2BO4w1rtKpUZ8b8BmAJhw==",
   "success": true,
   "projectFilePath": "C:\\Users\\faruk\\source\\repos\\FullStack\\FullStackDeveloper-NrthwndBcknd\\Core\\Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\faruk\\.nuget\\packages\\fluentvalidation\\8.5.0\\fluentvalidation.8.5.0.nupkg.sha512",
     "C:\\Users\\faruk\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\faruk\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\faruk\\.nuget\\packages\\microsoft.entityframeworkcore\\2.2.6\\microsoft.entityframeworkcore.2.2.6.nupkg.sha512",
