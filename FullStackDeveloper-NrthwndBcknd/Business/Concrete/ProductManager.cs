@@ -30,6 +30,7 @@ namespace Business.Concrete
         //AOP - Aspect Oriented Programing 
 
         [ValidationAspect(typeof(ProductValidator),Priority=1)]
+        [CacheRemoveAspect("IProductService.Get")]
         public IResult Add(Product product)
         {
             //ValidationTool.Validate(new ProductValidator(),product);
