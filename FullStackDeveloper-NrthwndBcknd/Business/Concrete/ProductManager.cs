@@ -1,6 +1,7 @@
 ﻿using Business.Abstract;
 using Business.Constants;
 using Business.ValidationRules.FluentValidation;
+using Core.Aspects.Autofac.Transaction;
 using Core.Aspects.Autofac.Validation;
 using Core.CrossCuttingConcerns.Validation;
 using Core.Utilities.Results;
@@ -55,6 +56,15 @@ namespace Business.Concrete
         public IDataResult<List<Product>> GetListByCategory(int categoryId)
         {
             return new SuccessDataResult<List<Product>>(_productDal.GetList(filter: p => p.CategoryId == categoryId).ToList());
+        }
+        [TransactionScopeAspect]
+        public IResult TransactionalOperation(Product product)
+        {
+            //transaction sirasi istedigimiz gibi
+
+            //_productDal.Update(product);
+            //_productDal.Add(product);
+            return new SuccessResult("transeaction test");
         }
 
         public IResult Update(Product product)
