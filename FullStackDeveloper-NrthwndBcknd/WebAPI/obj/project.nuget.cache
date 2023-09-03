@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bankhxkKKEksufum72hgyWoX4gf0LYgeyHCdYZw6nS3v8TW1PbJ5Njwu6aMd9k3fXFxekiVQO3Mep1ZnM2H10g==",
+  "dgSpecHash": "GYO/aTPMllDhKTlGlxCub7oTxdGfQ11p9lLatM4WdkdUqyXk8qZAq8oETzjHUz6YZO+vf2k0OImDH9kbOyY+NQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\faruk\\source\\repos\\FullStack\\FullStackDeveloper-NrthwndBcknd\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
@@ -25,12 +25,12 @@
     "C:\\Users\\faruk\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.2.0\\microsoft.extensions.logging.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\faruk\\.nuget\\packages\\microsoft.extensions.options\\2.2.0\\microsoft.extensions.options.2.2.0.nupkg.sha512",
     "C:\\Users\\faruk\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0-preview.7.23375.6\\microsoft.extensions.primitives.8.0.0-preview.7.23375.6.nupkg.sha512",
-    "C:\\Users\\faruk\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.0.0-preview4\\microsoft.identitymodel.abstractions.7.0.0-preview4.nupkg.sha512",
+    "C:\\Users\\faruk\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.32.2\\microsoft.identitymodel.abstractions.6.32.2.nupkg.sha512",
     "C:\\Users\\faruk\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.32.2\\microsoft.identitymodel.jsonwebtokens.6.32.2.nupkg.sha512",
-    "C:\\Users\\faruk\\.nuget\\packages\\microsoft.identitymodel.logging\\7.0.0-preview4\\microsoft.identitymodel.logging.7.0.0-preview4.nupkg.sha512",
+    "C:\\Users\\faruk\\.nuget\\packages\\microsoft.identitymodel.logging\\6.32.2\\microsoft.identitymodel.logging.6.32.2.nupkg.sha512",
     "C:\\Users\\faruk\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.7.1\\microsoft.identitymodel.protocols.6.7.1.nupkg.sha512",
     "C:\\Users\\faruk\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.7.1\\microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
-    "C:\\Users\\faruk\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.0.0-preview4\\microsoft.identitymodel.tokens.7.0.0-preview4.nupkg.sha512",
+    "C:\\Users\\faruk\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.32.2\\microsoft.identitymodel.tokens.6.32.2.nupkg.sha512",
     "C:\\Users\\faruk\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\faruk\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\faruk\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

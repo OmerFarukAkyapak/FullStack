@@ -1,5 +1,6 @@
 ﻿using Business.Abstract;
 using Entities.Concrete;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -34,6 +35,7 @@ namespace WebAPI.Controllers
 
 
         [HttpGet(template: "getall")]
+        [Authorize(Roles = "Admin")]
         public IActionResult GetList()
         {
             var result = _productService.GetList();

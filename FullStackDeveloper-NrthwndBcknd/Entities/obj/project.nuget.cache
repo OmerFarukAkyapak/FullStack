@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "H6mPUPM0AK03N10thoze5MWN4OMSX38WxmqVGJTF3+jLCfxQA6BKbOro6lATYJ1GiTR8WR0WLumgtLgobkOGaA==",
+  "dgSpecHash": "P789KRi2OzixgNtQ5SZIkyqPFq/xaK1RztgXgf+RUW2hIArNwonfuhkv19JG1z/ynrNZvSDlAx1iPLFK8ygfVA==",
   "success": true,
   "projectFilePath": "C:\\Users\\faruk\\source\\repos\\FullStack\\FullStackDeveloper-NrthwndBcknd\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
@@ -22,10 +22,10 @@
     "C:\\Users\\faruk\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.2.0\\microsoft.extensions.logging.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\faruk\\.nuget\\packages\\microsoft.extensions.options\\2.2.0\\microsoft.extensions.options.2.2.0.nupkg.sha512",
     "C:\\Users\\faruk\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0-preview.7.23375.6\\microsoft.extensions.primitives.8.0.0-preview.7.23375.6.nupkg.sha512",
-    "C:\\Users\\faruk\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.0.0-preview4\\microsoft.identitymodel.abstractions.7.0.0-preview4.nupkg.sha512",
+    "C:\\Users\\faruk\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.32.2\\microsoft.identitymodel.abstractions.6.32.2.nupkg.sha512",
     "C:\\Users\\faruk\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.32.2\\microsoft.identitymodel.jsonwebtokens.6.32.2.nupkg.sha512",
-    "C:\\Users\\faruk\\.nuget\\packages\\microsoft.identitymodel.logging\\7.0.0-preview4\\microsoft.identitymodel.logging.7.0.0-preview4.nupkg.sha512",
-    "C:\\Users\\faruk\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.0.0-preview4\\microsoft.identitymodel.tokens.7.0.0-preview4.nupkg.sha512",
+    "C:\\Users\\faruk\\.nuget\\packages\\microsoft.identitymodel.logging\\6.32.2\\microsoft.identitymodel.logging.6.32.2.nupkg.sha512",
+    "C:\\Users\\faruk\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.32.2\\microsoft.identitymodel.tokens.6.32.2.nupkg.sha512",
     "C:\\Users\\faruk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\faruk\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\faruk\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
